@@ -26,20 +26,18 @@ Features used include:
 - Jupyter Notebook
 - (Optional: Streamlit for deployment)
 
-## Repository Structure
-
 salary-prediction-ibm/
 │
 ├── model/
-│ └── salary_prediction_model.pkl # Trained model file
+│   └── salary_prediction_model.pkl   # Trained model file
 │
 ├── notebooks/
-│ └── prediction.ipynb # Model training and evaluation
+│   └── prediction.ipynb              # Model training and evaluation
 │
-├── app.py # Optional app for prediction interface
-├── requirements.txt # Required Python libraries
-├── README.md # Project description
-└── .gitignore # Files to ignore in version control
+├── app.py                            # Optional app for prediction interface
+├── requirements.txt                  # Required Python libraries
+├── README.md                         # Project description
+└── .gitignore                        # Files to ignore in version control
 
 
 ## How to Run
