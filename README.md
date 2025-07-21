@@ -28,21 +28,21 @@ Features used include:
 
 ## How to Run
 
-1. Clone the repository:
-
+1. Clone the repository
+```bash
 git clone https://github.com/<your-username>/salary-prediction-ibm.git
 cd salary-prediction-ibm
+```
 
-
-2. Install dependencies:
-
+3. Install dependencies:
+```
 pip install -r requirements.txt
-
+```
 
 3. Launch the notebook:
-
+```
 jupyter notebook notebooks/prediction.ipynb
-
+```
 
 ## Internship Information
 
