@@ -25,6 +25,21 @@ Features used include:
 - Joblib (for model serialization)
 - Jupyter Notebook
 
+```
+salary-prediction-ibm/
+│
+├── model/
+│   └── salary_prediction_model.pkl   # Trained model file
+│
+├── notebooks/
+│   └── prediction.ipynb              # Model training and evaluation
+│
+├── app.py                            # Optional app for prediction interface
+├── requirements.txt                  # Required Python libraries
+├── README.md                         # Project description
+└── .gitignore                        # Files to ignore in version control
+```
+
 
 ## How to Run
 
