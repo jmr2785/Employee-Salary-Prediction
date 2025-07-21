@@ -25,7 +25,7 @@ Features used include:
 - Joblib (for model serialization)
 - Jupyter Notebook
 
-##Repository Structure
+## Repository Structure
 
 ```
 salary-prediction-ibm/
